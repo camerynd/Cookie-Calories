@@ -1,10 +1,3 @@
-/*
-Chapter02_Q9.cpp
-Duarte, Cameryn
-CSC119-142 Introduction to Programming C++ Spring 2021
-02/04/2021
-This program calculates the number of calories consumed in cookies.
-*/
 //tells the processor to include the input output functions
 #include <iostream>
 //used to differentiate similar functions
